@@ -1,5 +1,4 @@
 # **Introducción** 
-
 ![2_Mesa de trabajo 1](https://github.com/Risango/Henry-PF/assets/128632484/a7659e9c-582e-496d-b113-1e8b59a9264d)
 Los siniestros viales es una de las principales causas de muertes en Argentina segun informes del ``Sistema Nacional de Información Criminal (SNIC)``. Estos pueden tener diversas causas tales como colisiones entre automóviles, motocicletas, bicicletas o peatones, atropellos, choques con objetos fijos o caídas de vehículos.
 
