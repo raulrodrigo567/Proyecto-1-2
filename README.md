@@ -1,6 +1,6 @@
 # **Introducción** 
 
-![2_Mesa de trabajo 1](https://github.com/Risango/Henry-PF/assets/128632484/a7659e9c-582e-496d-b113-1e8b59a9264d)
+![edfadsf-01](https://github.com/raulrodrigo567/Proyecto-1-2/assets/128632484/1f8bd01e-b399-4c18-a98d-ae5bfa500ca1)
 Los siniestros viales es una de las principales causas de muertes en Argentina segun informes del ``Sistema Nacional de Información Criminal (SNIC)``. Estos pueden tener diversas causas tales como colisiones entre automóviles, motocicletas, bicicletas o peatones, atropellos, choques con objetos fijos o caídas de vehículos.
 
 En la ``Ciudad de Buenos Aires`` con mucho tráfico y alta densidad de población, los siniestros viales pueden ser un gran problema. Estos eventos pueden afectar significativamente la seguridad de los residentes y visitantes de la ciudad, así como la infraestructura vial y los servicios operativos.
